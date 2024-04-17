@@ -12,5 +12,7 @@ Welcome to my GitHub space where innovation meets efficiency.
 
 ### Connect with me:
 
-[LinkedIn Profile](https://www.linkedin.com/in/oswald-essongu%C3%A9-9a1944148/) | [Email](oswaldessongue@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oswald-essongu%C3%A9-9a1944148/)
+[![Mail Badge](https://img.shields.io/badge/GMail-Mail%20me-red)](mailto:oswaldessongue@gmail.com)
+
 
