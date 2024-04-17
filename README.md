@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Oswald Essongue 👋
 
-<!--
-**dinho11701/dinho11701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Cloud & DevOps Enthusiast | Software Engineering Student at UQAM
 
-Here are some ideas to get you started:
+Welcome to my GitHub space where innovation meets efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌩️ I have a deep enthusiasm for **Cloud Technologies** and **DevOps** practices.
+- 👨‍💻 Coding is not just a job; it's a part of my life I zealously engage in, even beyond the work hours.
+- 🎓 I'm honing my skills as a final year **Software Engineering** student at **UQAM**, where theory and practice go hand in hand.
+- 💼 I'm on the lookout for opportunities to bring fresh solutions to complex problems.
+- 🤝 Open to collaborate on projects that are at the intersection of educational advancement and cutting-edge technology.
+
+### Connect with me:
+
+[LinkedIn Profile](https://www.linkedin.com/in/oswald-essongu%C3%A9-9a1944148/) | [Email](oswaldessongue@gmail.com)
+
