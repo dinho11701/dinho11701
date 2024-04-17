@@ -15,6 +15,6 @@ Welcome to my GitHub space where innovation meets efficiency.
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oswald-essongu%C3%A9-9a1944148/)
 
 
-![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oswald-essongu%C3%A9-9a1944148/)
 
 
