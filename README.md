@@ -1,6 +1,6 @@
 # Hello, I'm Oswald Essongue 👋
 
-## Full Stack Developer | Cloud & DevOps Enthusiast | Final year Software Engineering student at UQAM
+## Final Year Student at UQAM Majoring in Software Engineering | Full Stack Developer & IT Analyst | Skilled in Cloud Solutions & DevOps | Pursuing Internship Opportunities in Technology and Analysis
 
 Welcome to my GitHub space where innovation meets efficiency.
 
